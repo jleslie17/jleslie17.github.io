@@ -1,5 +1,17 @@
 ---
 title: "About Me"
 ---
+<img style="float: right;" src="Jon Leslie Headshots-3_med.jpg">
 
-Why I am awesome. 
+
+- __Name:__ Jonathan Leslie
+- __Occupation:__ Data scientist, consultant, mentor
+- __Position:__ Head of Data Science, Pivigo, Ltd.
+
+
+
+
+## Summary:
+I am a scientist, consultant and mentor, specialising in the use of data analytics, statistics and predictive methodologies to drive business decisions in a wide range of contexts. My work utilises exploratory data analysis, data visualisation and machine learning to gain insight from existing data and to help clients make informed strategic decisions going forward. I have worked on projects both as an individual data scientist as well as a project manager/scrum master for teams of data scientists. 
+
+
